@@ -11,4 +11,4 @@
 步骤三：实现用户输入count
     （zhizhi2006负责）
 
-gay
+gay is yyc
